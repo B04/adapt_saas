@@ -30,6 +30,12 @@ gem 'bootstrap-sass', '3.3.7'
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 
+# Use Figaro for ENV variables
+gem 'figaro', '1.1.1'
+
+# Use Stripe for payment processing
+gem 'stripe', '1.48.0'
+
 # Use Devise for user authentication
 gem 'devise', '4.2.0'
 
